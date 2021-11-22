@@ -14,6 +14,7 @@
 		1A7ECF8B2749AADB00A9D8F2 /* DropDown_Practice.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 1A7ECF892749AADB00A9D8F2 /* DropDown_Practice.xcdatamodeld */; };
 		1A7ECF8D2749AADD00A9D8F2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 1A7ECF8C2749AADD00A9D8F2 /* Assets.xcassets */; };
 		1A7ECF902749AADD00A9D8F2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 1A7ECF8E2749AADD00A9D8F2 /* LaunchScreen.storyboard */; };
+		1A7ECF982749ACB700A9D8F2 /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A7ECF972749ACB700A9D8F2 /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		1A7ECF8C2749AADD00A9D8F2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		1A7ECF8F2749AADD00A9D8F2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		1A7ECF912749AADD00A9D8F2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		1A7ECF972749ACB700A9D8F2 /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				1A7ECF822749AADB00A9D8F2 /* SceneDelegate.swift */,
 				1A7ECF842749AADB00A9D8F2 /* ViewController.swift */,
 				1A7ECF862749AADB00A9D8F2 /* Main.storyboard */,
+				1A7ECF972749ACB700A9D8F2 /* TableViewController.swift */,
 				1A7ECF8C2749AADD00A9D8F2 /* Assets.xcassets */,
 				1A7ECF8E2749AADD00A9D8F2 /* LaunchScreen.storyboard */,
 				1A7ECF912749AADD00A9D8F2 /* Info.plist */,
@@ -144,6 +147,7 @@
 				1A7ECF852749AADB00A9D8F2 /* ViewController.swift in Sources */,
 				1A7ECF8B2749AADB00A9D8F2 /* DropDown_Practice.xcdatamodeld in Sources */,
 				1A7ECF812749AADB00A9D8F2 /* AppDelegate.swift in Sources */,
+				1A7ECF982749ACB700A9D8F2 /* TableViewController.swift in Sources */,
 				1A7ECF832749AADB00A9D8F2 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
